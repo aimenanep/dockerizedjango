@@ -1,0 +1,5 @@
+docker-compose up  //build and run the containers 
+
+docker exec -it postgres psql -U postgres   //enter data base 
+
+sudo docker exec -it f58f90939e1c bash  //enter container shell 
